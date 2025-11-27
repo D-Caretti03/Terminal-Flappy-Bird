@@ -8,12 +8,12 @@
 make
 ```
 
-Usage: 
+## Usage: 
 ```
 ./flappy
 ```
 
-Keys:
+## Keys:
 
     SPACE:  jump
     q:      quit
